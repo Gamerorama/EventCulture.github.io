@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(122, 137, 137);
+
+}
+
+
+.Txt {
+    position: relative;
+    top: 90%;
+    color: white;
+    font-size: 80%;
+}
+
+#carouselExampleControls {
+    position: absolute;
+    z-index: -1;
+    width: 100vw;
+    length: 75vh;
+
+}
+
+h1 {
+    font-size: 10vw;
+}
+
+.Ev_1 {
+    position: absolute;
+    max-width: 100vw;
+    width: 30vw;
+    height: 60vh;
+    top: 8vh;
+
+
+}
+
+.event_1 {
+    position: absolute;
+    top: 96vh;
+    width: 65vw;
+    height: auto;
+    left: 5vw;
+
+}
+
+.title {
+    position: absolute;
+    font-size: 300%;
+    font-style: oblique;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    top: 86vh;
+}
+
+.btn-outline-dark {
+    position: absolute;
+    top: 120vh;
+    right: 15vw;
+    width: 30vw;
+    height: 10vh;
+}
+
+.event_2 {
+    position: absolute;
+    max-width: 100vw;
+    width: 65vw;
+    height: 60vh;
+    top: 170vh;
+    left: 5vw;
+
+}
+
+.Ev_2 {
+    position: absolute;
+    max-width: 100vw;
+    width: 30vw;
+    height: 60vh;
+    top: 8vh;
+}
+
+.btn-outline-dark_2 {
+    position: absolute;
+    top: 210vh;
+    right: 15vw;
+    width: 30vw;
+    height: 10vh;
+}
+
+#button_2 {
+    position: absolute;
+    top: 210vh;
+    right: 15vw;
+    width: 30vw;
+    height: 10vh;
+
+}
